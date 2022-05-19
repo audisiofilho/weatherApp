@@ -41,6 +41,10 @@ Utilizei a API do openWeather, link da documentação: https://openweathermap.or
 
 https://www.mediafire.com/file/78y1frmub0mlcx7/weatherApp.apk/file
 
+## App não carrega?
+
+Caso o App fique só carregando, é essencial que você esteja com a localização ligada e que permita o acesso. Depois entre no Google Maps para atualizar de fato a localização e abra o App novamente. Caso persista, entre em contato.
+
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
